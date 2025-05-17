@@ -81,7 +81,3 @@ StreamHub是一个基于Spring Cloud微服务架构构建的视频分享平台�
 - ElasticSearch 7.0+
 - Minio
 
-### 安装步骤
-1. 克隆仓库
-   ```bash
-   git clone https://github.com/junske51/StreamHub.git
